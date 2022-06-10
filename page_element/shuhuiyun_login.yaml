@@ -1,0 +1,7 @@
+输入用户名: 'name==email'
+输入密码: 'name==password'
+输入验证码: 'name==captcha'
+验证码图片: 'xpath==/html/body/div[1]/div/div/div[2]/div[1]/div[3]/form/div[3]/div/div/div[2]/img'
+登录按钮: 'xpath==//*[@id="app"]/div/div/div[2]/div[1]/div[3]/button'
+
+
